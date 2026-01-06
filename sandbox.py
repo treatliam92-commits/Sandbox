@@ -1,5 +1,9 @@
 # Proggrammer: Liam Treat
-# Program: Sandbox
-# Date: 12.18.25
+# Program: Sandbox - Variables Branch
+# Date: 1.6.26
 
-print("This is my amazing sandbox for me to play, learn make mistakes on purpose")
+print("Make some Variables")
+year = 2026
+name = "Liam Treat"
+age = 17
+print ("My name is ",name,"it is the year of",year,"and i am",age,"years old.")
